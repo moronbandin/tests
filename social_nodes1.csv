@@ -1,0 +1,21 @@
+id,name,type
+1,Aida,Person
+2,Diego,Person
+3,Sara,Person
+4,María,Person
+5,María,Person
+6,Aida,Person
+7,Manuel,Person
+8,Noemi,Person
+9,Noemi,Person
+10,Aida,Person
+11,Nueva York,Place
+12,Nueva York,Place
+13,Tokio,Place
+14,Londres,Place
+15,Los Ángeles,Place
+16,videojuegos,Activity
+17,lectura,Activity
+18,cocina,Activity
+19,videojuegos,Activity
+20,viajar,Activity
