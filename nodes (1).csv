@@ -1,0 +1,201 @@
+id,name,type
+1,Marco xeográfico das civilizacións grega e romana,theme
+2,Homero,peopl
+3,Sócrates,peopl
+4,Platón,peopl
+5,Aristóteles,peopl
+6,Julio César,peopl
+7,Augusto,peopl
+8,Cicerón,peopl
+9,Grecia,place
+10,Roma,place
+11,Atenas,place
+12,Esparta,place
+13,Macedonia,place
+14,Cartago,place
+15,Alejandría,place
+16,Guerras Púnicas,event
+17,Batalla de Salamina,event
+18,Conquista de Alejandro Magno,event
+19,Fundación de Roma,event
+20,"Marco histórico da civilización grega: das civilizacións minoica e micénica ao mundo helenístico. Etapas, feitos importantes e mulleres e homes relevantes",theme
+21,Pericles,peopl
+22,Alejandro Magno,peopl
+23,Hipatia,peopl
+24,Creta,place
+25,Micenas,place
+26,Guerra de Troya,event
+27,Guerras Médicas,event
+28,Guerra del Peloponeso,event
+29,Conquistas de Alejandro Magno,event
+30,Periodo helenístico,event
+31,"Marco histórico da civilización romana: monarquía, república e imperio. Etapas, feitos importantes e mulleres e homes relevantes",theme
+32,Cleopatra,peopl
+33,Marco Antonio,peopl
+34,Nerón,peopl
+35,Calígula,peopl
+36,Trajano,peopl
+37,Adriano,peopl
+38,Marco Aurelio,peopl
+39,Virgilio,peopl
+40,Horacio,peopl
+41,Livio,peopl
+42,Séneca,peopl
+43,Italia,place
+44,Galia,place
+45,Egipto,place
+46,Britania,place
+47,Hispania,place
+48,Caída de la República Romana,event
+49,Asesinato de Julio César,event
+50,Batalla de Actium,event
+51,Persecuciones cristianas,event
+52,Edicto de Milán,event
+53,Reforma de Diocleciano,event
+54,División del Imperio Romano,event
+55,Cosmogonía. Teogonía. O panteón grego e romano,theme
+56,Hesíodo,peopl
+57,Zeus,peopl
+58,Hera,peopl
+59,Poseidón,peopl
+60,Hades,peopl
+61,Apolo,peopl
+62,Atenea,peopl
+63,Afrodita,peopl
+64,Hércules,peopl
+65,Júpiter,peopl
+66,Marte,peopl
+67,Venus,peopl
+68,Mercurio,peopl
+69,Olimpo,place
+70,Creación del mundo según la mitología griega,event
+71,Creación del mundo según la mitología romana,event
+72,"Mitos grecolatinos. Orixes e funcións. Os heroes e heroínas. Perduración da mitoloxía nas manifestacións artísticas, literarias e na publicidade",theme
+73,Perseo,peopl
+74,Aquiles,peopl
+75,Ulises,peopl
+76,Medea,peopl
+77,Los trabajos de Hércules,event
+78,El viaje de Ulises,event
+79,"Relixión grega: cultos, santuarios e oráculos",theme
+80,Orfeo,peopl
+81,Delfos,place
+82,Olimpia,place
+83,Eleusis,place
+84,Juegos Olímpicos,event
+85,Misterios eleusinos,event
+86,Relixión romana: culto público e privado,theme
+87,Juno,peopl
+88,Vesta,peopl
+89,Ceres,peopl
+90,Pompeya,place
+91,Festivales religiosos romanos,event
+92,Rituales de Vesta,event
+93,Fundamentos e etapas da arte clásica,theme
+94,Fidias,peopl
+95,Praxíteles,peopl
+96,Policleto,peopl
+97,Periodo arcaico,event
+98,Periodo clásico,event
+99,Arquitectura en Grecia e Roma: tipos de edificios e ordes arquitectónicas,theme
+100,Vitruvio,peopl
+101,"Escultura en Grecia e Roma: etapas, estilos e temáticas",theme
+102,Miron,peopl
+103,Lisipo,peopl
+104,Escopas,peopl
+105,Apolonio de Atenas,peopl
+106,Rodas,place
+107,Enxeñaría romana: obras públicas e urbanismo. Vías romanas,theme
+108,Herculano,place
+109,Construcción del Coliseo,event
+110,Construcción de acueductos,event
+111,Construcción de vías romanas,event
+112,Herdanza clásica no patrimonio artístico en Europa en xeral e en Galicia en concreto,theme
+113,Miguel Ángel,peopl
+114,Leonardo da Vinci,peopl
+115,Europa,place
+116,Galicia,place
+117,Renacimiento,event
+118,Organización política en Grecia e en Roma: formas de goberno e institucións,theme
+119,Cleisthenes,peopl
+120,César,peopl
+121,Solón,peopl
+122,Democracia en Atenas,event
+123,República Romana,event
+124,Imperio Romano,event
+125,Sociedade en Grecia e Roma: clases sociais. A escravitude,theme
+126,Corinto,place
+127,A familia en Grecia e Roma. Roles dos seus membros; situación da muller,theme
+128,Aspasia,peopl
+129,Guerras del Peloponeso,event
+130,Reforma de Pericles,event
+131,"Vida cotiá en Grecia e Roma: vivenda, hixiene, alimentación, vestimenta e traballo",theme
+132,Delos,place
+133,Os espectáculos públicos en Grecia e Roma,theme
+134,Sófocles,peopl
+135,Eurípides,peopl
+136,Aristófanes,peopl
+137,Plauto,peopl
+138,Terencio,peopl
+139,Dionisias,event
+140,Ludi Romani,event
+141,"Historia da escritura. Tipos de escritura, materiais e soportes",theme
+142,Sumerios,peopl
+143,Egipcios,peopl
+144,Fenicios,peopl
+145,Griegos,peopl
+146,Romanos,peopl
+147,Mesopotamia,place
+148,Fenicia,place
+149,Invención de la escritura cuneiforme,event
+150,Desarrollo de los jeroglíficos egipcios,event
+151,Creación del alfabeto fenicio,event
+152,Adopción del alfabeto griego,event
+153,Uso del alfabeto latino,event
+154,Orixe do alfabeto. O alfabeto grego e o abecedario latino,theme
+155,Desarrollo del alfabeto griego,event
+156,Adopción del alfabeto latino por los romanos,event
+157,As linguas do mundo. O indoeuropeo e as súas familias lingüísticas,theme
+158,Indo-European regions,place
+159,As linguas romances,theme
+160,Francia,place
+161,España,place
+162,Portugal,place
+163,Rumanía,place
+164,Caída del Imperio Romano,event
+165,Expansión del Imperio Romano,event
+166,Composición e derivación culta de orixe grega e latina,theme
+167,Latium,place
+168,Expansión del latín en el Imperio Romano,event
+169,"Latinismos, palabras patrimoniais, cultismos e semicultismos",theme
+170,Principais regras de evolución fonética do latín ao galego e ao castelán,theme
+171,Latín,place
+172,Galego,place
+173,Castelán,place
+174,Léxico grecolatino na linguaxe común e na científica e técnica,theme
+175,Hipócrates,peopl
+176,Galeno,peopl
+177,Presenza das linguas clásicas nas linguas modernas,theme
+178,Xéneros literarios grecolatinos: autores e obras principais,theme
+179,Ovidio,peopl
+180,"Fórmulas básicas de saúdo e presentación en latín e grego, e fraseoloxía básica do medio escolar",theme
+181,Presenza da civilización grecolatina nas artes e na organización social e política actual,theme
+182,Democracia ateniense,event
+183,República romana,event
+184,Imperio romano,event
+185,Mitoloxía e temas lendarios nas manifestacións artísticas actuais,theme
+186,Troya,place
+187,Trabajos de Hércules,event
+188,Historia de Grecia e Roma e a súa presenza no noso país. A presenza de Grecia e Roma na Península Ibérica. A romanización de Hispania e da Gallaecia,theme
+189,Escipión el Africano,peopl
+190,Virato,peopl
+191,Sertorio,peopl
+192,Gallaecia,place
+193,Tarraco,place
+194,Itálica,place
+195,Mérida,place
+196,Romanización de Hispania,event
+197,Conquista de Hispania por Roma,event
+198,Investigación sobre a perduración da civilización clásica na nosa cultura,theme
+199,Ilustración,event
+200,Humanismo,event
