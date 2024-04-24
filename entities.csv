@@ -1,0 +1,350 @@
+entity_name,entity_type,theme_id
+Homero,people,1
+Sócrates,people,1
+Platón,people,1
+Aristóteles,people,1
+Julio César,people,1
+Augusto,people,1
+Cicerón,people,1
+Grecia,places,1
+Roma,places,1
+Atenas,places,1
+Esparta,places,1
+Macedonia,places,1
+Cartago,places,1
+Alejandría,places,1
+Guerras Púnicas,events,1
+Batalla de Salamina,events,1
+Conquista de Alejandro Magno,events,1
+Fundación de Roma,events,1
+Homero,people,1
+Pericles,people,1
+Alejandro Magno,people,1
+Sócrates,people,1
+Platón,people,1
+Aristóteles,people,1
+Hipatia,people,1
+Creta,places,1
+Micenas,places,1
+Atenas,places,1
+Esparta,places,1
+Macedonia,places,1
+Alejandría,places,1
+Guerra de Troya,events,1
+Guerras Médicas,events,1
+Guerra del Peloponeso,events,1
+Conquistas de Alejandro Magno,events,1
+Periodo helenístico,events,1
+Augusto,people,1
+Julio César,people,1
+Cicerón,people,1
+Cleopatra,people,1
+Marco Antonio,people,1
+Nerón,people,1
+Calígula,people,1
+Trajano,people,1
+Adriano,people,1
+Marco Aurelio,people,1
+Virgilio,people,1
+Horacio,people,1
+Livio,people,1
+Séneca,people,1
+Roma,places,1
+Italia,places,1
+Galia,places,1
+Egipto,places,1
+Britania,places,1
+Hispania,places,1
+Fundación de Roma,events,1
+Caída de la República Romana,events,1
+Asesinato de Julio César,events,1
+Batalla de Actium,events,1
+Persecuciones cristianas,events,1
+Edicto de Milán,events,1
+Reforma de Diocleciano,events,1
+División del Imperio Romano,events,1
+Hesíodo,people,2
+Homero,people,2
+Zeus,people,2
+Hera,people,2
+Poseidón,people,2
+Hades,people,2
+Apolo,people,2
+Atenea,people,2
+Afrodita,people,2
+Hércules,people,2
+Júpiter,people,2
+Marte,people,2
+Venus,people,2
+Mercurio,people,2
+Grecia,places,2
+Roma,places,2
+Olimpo,places,2
+Creación del mundo según la mitología griega,events,2
+Creación del mundo según la mitología romana,events,2
+Hércules,people,2
+Perseo,people,2
+Aquiles,people,2
+Ulises,people,2
+Medea,people,2
+Atenea,people,2
+Zeus,people,2
+Afrodita,people,2
+Grecia,places,2
+Roma,places,2
+Olimpo,places,2
+Guerra de Troya,events,2
+Los trabajos de Hércules,events,2
+El viaje de Ulises,events,2
+Homero,people,2
+Hesíodo,people,2
+Orfeo,people,2
+Delfos,places,2
+Olimpia,places,2
+Eleusis,places,2
+Juegos Olímpicos,events,2
+Misterios eleusinos,events,2
+Júpiter,people,2
+Juno,people,2
+Marte,people,2
+Vesta,people,2
+Ceres,people,2
+Roma,places,2
+Pompeya,places,2
+Festivales religiosos romanos,events,2
+Rituales de Vesta,events,2
+Fidias,people,3
+Praxíteles,people,3
+Policleto,people,3
+Grecia,places,3
+Roma,places,3
+Atenas,places,3
+Olimpia,places,3
+Periodo arcaico,events,3
+Periodo clásico,events,3
+Periodo helenístico,events,3
+Vitruvio,people,3
+Grecia,places,3
+Roma,places,3
+Atenas,places,3
+Delfos,places,3
+Olimpia,places,3
+Fidias,people,3
+Praxíteles,people,3
+Miron,people,3
+Policleto,people,3
+Lisipo,people,3
+Escopas,people,3
+Apolonio de Atenas,people,3
+Grecia,places,3
+Roma,places,3
+Atenas,places,3
+Olimpia,places,3
+Delfos,places,3
+Rodas,places,3
+Vitruvio,people,3
+Roma,places,3
+Pompeya,places,3
+Herculano,places,3
+Construcción del Coliseo,events,3
+Construcción de acueductos,events,3
+Construcción de vías romanas,events,3
+Vitruvio,people,3
+Miguel Ángel,people,3
+Leonardo da Vinci,people,3
+Europa,places,3
+Galicia,places,3
+Grecia,places,3
+Roma,places,3
+Renacimiento,events,3
+Pericles,people,4
+Cleisthenes,people,4
+César,people,4
+Augusto,people,4
+Solón,people,4
+Atenas,places,4
+Roma,places,4
+Esparta,places,4
+Democracia en Atenas,events,4
+República Romana,events,4
+Imperio Romano,events,4
+Sócrates,people,4
+Platón,people,4
+Aristóteles,people,4
+Cicerón,people,4
+Julio César,people,4
+Atenas,places,4
+Roma,places,4
+Esparta,places,4
+Corinto,places,4
+Guerras Púnicas,events,4
+Guerra del Peloponeso,events,4
+Sócrates,people,4
+Platón,people,4
+Aristóteles,people,4
+Cicerón,people,4
+Julio César,people,4
+Augusto,people,4
+Pericles,people,4
+Aspasia,people,4
+Atenas,places,4
+Roma,places,4
+Esparta,places,4
+Guerras del Peloponeso,events,4
+Fundación de Roma,events,4
+Reforma de Pericles,events,4
+Sócrates,people,4
+Platón,people,4
+Aristóteles,people,4
+Cicerón,people,4
+Julio César,people,4
+Homero,people,4
+Atenas,places,4
+Esparta,places,4
+Roma,places,4
+Corinto,places,4
+Delos,places,4
+Juegos Olímpicos,events,4
+Fundación de Roma,events,4
+Guerras Púnicas,events,4
+Guerras Médicas,events,4
+Sófocles,people,4
+Eurípides,people,4
+Aristófanes,people,4
+Plauto,people,4
+Terencio,people,4
+Atenas,places,4
+Roma,places,4
+Delfos,places,4
+Olimpia,places,4
+Juegos Olímpicos,events,4
+Dionisias,events,4
+Ludi Romani,events,4
+Sumerios,people,5
+Egipcios,people,5
+Fenicios,people,5
+Griegos,people,5
+Romanos,people,5
+Mesopotamia,places,5
+Egipto,places,5
+Fenicia,places,5
+Grecia,places,5
+Roma,places,5
+Invención de la escritura cuneiforme,events,5
+Desarrollo de los jeroglíficos egipcios,events,5
+Creación del alfabeto fenicio,events,5
+Adopción del alfabeto griego,events,5
+Uso del alfabeto latino,events,5
+Homero,people,5
+Platón,people,5
+Cicerón,people,5
+Virgilio,people,5
+Grecia,places,5
+Roma,places,5
+Fenicia,places,5
+Desarrollo del alfabeto griego,events,5
+Adopción del alfabeto latino por los romanos,events,5
+Indo-European regions,places,5
+Julio César,people,5
+Cicerón,people,5
+Virgilio,people,5
+Roma,places,5
+Italia,places,5
+Francia,places,5
+España,places,5
+Portugal,places,5
+Rumanía,places,5
+Caída del Imperio Romano,events,5
+Expansión del Imperio Romano,events,5
+Homero,people,5
+Virgilio,people,5
+Platón,people,5
+Cicerón,people,5
+Grecia,places,5
+Roma,places,5
+Atenas,places,5
+Latium,places,5
+Desarrollo del alfabeto griego,events,5
+Expansión del latín en el Imperio Romano,events,5
+Latín,places,5
+Galego,places,5
+Castelán,places,5
+Hipócrates,people,5
+Galeno,people,5
+Aristóteles,people,5
+Platón,people,5
+Grecia,places,5
+Roma,places,5
+Cicerón,people,5
+Virgilio,people,5
+Homero,people,5
+Platón,people,5
+Aristóteles,people,5
+Roma,places,5
+Atenas,places,5
+Grecia,places,5
+Italia,places,5
+Francia,places,5
+España,places,5
+Homero,people,5
+Virgilio,people,5
+Sófocles,people,5
+Eurípides,people,5
+Aristófanes,people,5
+Platón,people,5
+Cicerón,people,5
+Ovidio,people,5
+Grecia,places,5
+Roma,places,5
+Roma,places,5
+Atenas,places,5
+Sócrates,people,6
+Platón,people,6
+Aristóteles,people,6
+Cicerón,people,6
+Virgilio,people,6
+Grecia,places,6
+Roma,places,6
+Atenas,places,6
+Esparta,places,6
+Roma,places,6
+Democracia ateniense,events,6
+República romana,events,6
+Imperio romano,events,6
+Homero,people,6
+Hesíodo,people,6
+Zeus,people,6
+Hércules,people,6
+Apolo,people,6
+Atenea,people,6
+Olimpo,places,6
+Atenas,places,6
+Esparta,places,6
+Troya,places,6
+Guerra de Troya,events,6
+Trabajos de Hércules,events,6
+Escipión el Africano,people,6
+Julio César,people,6
+Augusto,people,6
+Virato,people,6
+Sertorio,people,6
+Hispania,places,6
+Gallaecia,places,6
+Tarraco,places,6
+Itálica,places,6
+Mérida,places,6
+Romanización de Hispania,events,6
+Guerras Púnicas,events,6
+Conquista de Hispania por Roma,events,6
+Platón,people,6
+Aristóteles,people,6
+Homero,people,6
+Virgilio,people,6
+Cicerón,people,6
+Grecia,places,6
+Roma,places,6
+Atenas,places,6
+Alejandría,places,6
+Renacimiento,events,6
+Ilustración,events,6
+Humanismo,events,6
